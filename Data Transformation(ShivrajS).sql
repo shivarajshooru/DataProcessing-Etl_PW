@@ -1,6 +1,3 @@
--- Step 0: Disable Safe Update Mode temporarily
-SET SQL_SAFE_UPDATES = 0;
-
 /* ================================================================================
 PART 1: THEORY SECTION (Commented Out)
 ================================================================================
